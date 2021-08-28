@@ -24,7 +24,7 @@ this is *scatch* Depense tower game!
 
 |robat|Hp|power|speed|special|
 |:--|:--|:--|:--|:--|
-|robat|10|1|non|
-|circle robat|40|1|non|
-|handsome robat|90|1|non|
+|robat|10|1|1|non|
+|circle robat|40|1|1|non|
+|handsome robat|90|1|1|non|
 
