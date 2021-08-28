@@ -1,4 +1,3 @@
-![robat war screen](https://user-images.githubusercontent.com/89681301/131210412-52e2d4f1-c742-4835-abcc-c1800349aaf2.png)
 # robat-war
 Robat War 게임 목록
 # Robat War series!
@@ -13,7 +12,7 @@ this is *scatch* Depense tower game!
 - robat war3 [Egypthan runis](https://scratch.mit.edu/projects/487090891/)
 - robat war4 [swamp creatures](https://scratch.mit.edu/projects/541290459/)
 
-<img src="image/../robat%20war%20screen.png"></img>
+![robat war screen](https://user-images.githubusercontent.com/89681301/131210412-52e2d4f1-c742-4835-abcc-c1800349aaf2.png)
 #### *robat war main screen*
 ## characters!
 
